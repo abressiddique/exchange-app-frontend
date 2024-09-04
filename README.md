@@ -2,6 +2,7 @@
 
 This project is a frontend for an exchange application. It is built using Next.js and Tailwind CSS.
 
+
 ## Getting Started
 
 To get started with the project, follow these steps:
