@@ -17,6 +17,7 @@ Ensure you have Node.js and npm installed on your machine.
 1. Clone the repository:
 
    ```bash
+   
    git clone <repository-url>
    cd <repository-folder>
 
